@@ -1,7 +1,5 @@
 - 👋 Olá, me chamo Thiago
-- 👀 Tenho interesse em aprender e apromorar novas tecnologias.
-- 🌱 Estou atualmente estudando Javascript
-- 💞️ Meu próximo passo é estudar Typescript e React Native
+- 🌱 Estou atualmente estudando Typescript, NextJS, NodeJS, ReactJS, SCSS
 - 📫 Se precisar entrar em contato comigo <a href="mailto:thiago.g.santos@outlook.com.br?subject=Olá%20vim%20pelo%20github"> me mande um e-mail </a>
 
 <!---
