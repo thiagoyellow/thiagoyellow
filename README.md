@@ -39,7 +39,7 @@ Aqui estão os projetos onde dedico a maior parte do meu volume de desenvolvimen
 *Mantenho um ritmo de alta performance com mais de **750 contribuições** documentadas nos últimos 12 meses.*
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoyellow&theme=tokyonight&area=true&hide_border=true&custom_title=Intensidade%20de%20Commits" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoyellow&theme=react&area=true&hide_border=true&custom_title=Intensidade%20de%20Desenvolvimento&color=61dafb&line=61dafb&point=ffffff&area_color=282c34" />
 </div>
 
 <div align="center">
