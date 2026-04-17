@@ -27,7 +27,7 @@ Desenvolvedor focado na criação de **Micro SaaS** escaláveis, utilizando o ec
 ### 📈 Atividade e Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoyellow&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoyellow&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_rank=false" />
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoyellow&layout=compact&langs_count=7&theme=radical" />
 </div>
