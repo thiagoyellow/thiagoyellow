@@ -27,13 +27,13 @@ Desenvolvedor focado na criação de **Micro SaaS** escaláveis, utilizando o ec
 ### 📈 Atividade e Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoyellow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagoyellow&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoyellow&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoyellow&layout=compact&langs_count=7&theme=radical" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=thiagoyellow&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiagoyellow&theme=tokyonight&area=true&hide_border=true" />
 </div>
 
 ---
@@ -49,7 +49,7 @@ Desenvolvedor focado na criação de **Micro SaaS** escaláveis, utilizando o ec
 ### 💼 Experiência Profissional
 
 * **Assessor de Tecnologia na ANABBPrev:** Atuação estratégica em automação de relatórios, scripts internos e infraestrutura técnica.
-* **Consultoria Digital:** Estratégia de branding e tráfego pago para negócios locais e profissionais liberais.
+* **Consultoria Digital:** Estratégia de branding e tráfego pago para negócios locais e profissionais liberais (**Rafa Tattoo** e **Geane Santos**).
 
 ### 📫 Vamos construir algo juntos?
 
