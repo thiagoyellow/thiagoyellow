@@ -38,7 +38,7 @@ Desenvolvedor focado na criação de **Micro SaaS** escaláveis, utilizando o ec
 
 ---
 
-### 🐍 Snake Animation
+### 🐍 Contribuições nos ultimos 12 meses
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/thiagoyellow/thiagoyellow/output/github-snake-dark.svg" alt="Snake animation" />
