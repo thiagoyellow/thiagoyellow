@@ -16,11 +16,11 @@ Sou um **Programador Full Stack** e **Assessor de Tecnologia** focado na constru
 Aqui estão os projetos onde dedico a maior parte do meu volume de desenvolvimento e manutenção:
 
 * **🏛️ Coopanabb & ANABBPrev:** Projetos de alta complexidade corporativa onde realizei mais de **150 commits recentes**, focados em automação de processos, integração de dados e relatórios estratégicos para o setor previdenciário.
-* 
+  
 * **🐾 Fluffy (Micro SaaS):** Meu projeto principal no setor de estética pet/beauty. Um ecossistema completo de gestão financeira e produtividade, construído do zero com foco em UX e escalabilidade.
-* 
+  
 * **🏠 ImovelPro:** Plataforma estratégica de portfólio para corretores, com foco em performance de busca e gestão de leads.
-* 
+  
 * **🏎️ PitStop Pro:** MVP focado no setor automotivo, explorando monitoramento de eventos em tempo real.
 
 ---
