@@ -26,10 +26,9 @@ Sou um **Programador Full Stack** e **Assessor de Tecnologia** focado na constru
 
 ### 🚀 Projetos de Maior Intensidade (Foco em Entrega)
 
-* **🏛️ Coopanabb & ANABBPrev:** Projetos de alta complexidade corporativa com foco em automação de processos, integração de dados e relatórios estratégicos. Mais de **150 commits recentes** focados em escalabilidade interna.
+* **🏛️ Coopanabb & ANABBPrev:** Projetos de alta complexidade corporativa com foco em automação de processos, integração de dados e relatórios estratégicos, focados em escalabilidade interna.
 * **🐾 Fluffy (Micro SaaS):** ERP para o setor de estética (Pet & Beauty). Gestão financeira e dashboards inteligentes construídos com foco total em experiência do utilizador.
 * **🏠 ImovelPro:** Plataforma estratégica para corretores, otimizando portfólios e gestão de leads.
-* **🏎️ PitStop Pro:** MVP para o setor automotivo, com monitoramento de eventos em tempo real.
 
 ---
 
